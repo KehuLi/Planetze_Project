@@ -1,35 +1,15 @@
 {
   "project_info": {
     "project_number": "881376511673",
-    "firebase_url": "https://planetze-88-default-rtdb.firebaseio.com",
     "project_id": "planetze-88",
     "storage_bucket": "planetze-88.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:881376511673:android:51d2b25743328a71df7d68",
-        "android_client_info": {
-          "package_name": "com.kl.PlanetZe"
-        }
-      },
-      "oauth_client": [],
-      "api_key": [
-        {
-          "current_key": "AIzaSyDO0CVGWnH11ep9DJsWgXhvqFGXMh6pDNg"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": []
-        }
-      }
-    },
-    {
-      "client_info": {
         "mobilesdk_app_id": "1:881376511673:android:d25af960b446b3a5df7d68",
         "android_client_info": {
-          "package_name": "com.kl.planetze"
+          "package_name": "com.kl.PlanetZe"
         }
       },
       "oauth_client": [],
